@@ -1,4 +1,4 @@
-   <img src="image.png" alt="Curl page" height="300" />
+   <img src="Screenshot (34).png" alt="image" height="300" />
 
 ### Real-Time Handwriting Recognition on Webcam Feed
 
